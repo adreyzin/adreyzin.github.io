@@ -5,7 +5,7 @@
 ### My Capstopne Projects 
 
 [Weekly Death Rates from Influenza and Pneumonia](/CapstoneTwoRepo)
-<img src="/CapstoneTwoRepo/raw/master/images/Influenza%20Pneumonia%20Prediction.png"/>
+<img src="https://github.com/adreyzin/CapstoneTwoRepo/raw/master/images/Influenza%20Pneumonia%20Prediction.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
