@@ -8,12 +8,8 @@
 <img src="https://raw.githubusercontent.com/adreyzin/CapstoneTwoRepo/master/images/Influenza%20Pneumonia%20Prediction.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Philadelphia Licenses and Inspections Appeals Decision Results](https://github.com/adreyzin/Philly_L_and_I_Appeals)
+<img src="https://raw.githubusercontent.com/adreyzin/Philly_L_and_I_Appeals/main/images/appeal_map.png"/>
 
 ---
 
