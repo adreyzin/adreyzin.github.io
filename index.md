@@ -16,7 +16,7 @@
 ### Springboard Bootcamp Key Projects
 
 - [London Calling - Case Study](https://github.com/adreyzin/mySpringboardRepo/blob/master/4.3%20Case%20Study%20-%20London%20Calling!.ipynb)
-- [Project 2 Title](http://example.com/)
+- [Data Wrangling - DataCollection - API Mini Project](https://github.com/adreyzin/mySpringboardRepo/blob/master/7.2%20Data%20Wrangling.DataCollection.API%20Mini%20Project.ipynb)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
