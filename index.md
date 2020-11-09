@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### My Capstopne Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Weekly Death Rates from Influenza and Pneumonia](/CapstoneTwoRepo)
+<img src="/CapstoneTwoRepo/raw/master/images/Influenza%20Pneumonia%20Prediction.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
