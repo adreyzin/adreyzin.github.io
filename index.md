@@ -9,7 +9,7 @@
 
 ---
 [Philadelphia Licenses and Inspections Appeals Decision Results - WIP](https://github.com/adreyzin/Philly_L_and_I_Appeals)
-<img src="https://raw.githubusercontent.com/adreyzin/Philly_L_and_I_Appeals/main/images/appeal_map.png"/>
+<img src="https://raw.githubusercontent.com/adreyzin/Philly_L_and_I_Appeals/main/images/appeals_map.png"/>
 
 ---
 
