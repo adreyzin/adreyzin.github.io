@@ -19,7 +19,8 @@
 - [Data Wrangling - DataCollection - API Mini Project](https://github.com/adreyzin/mySpringboardRepo/blob/master/7.2%20Data%20Wrangling.DataCollection.API%20Mini%20Project.ipynb)
 - [Data Wrangling - Data Definitions - NASA Meteorite Data Exercise](https://github.com/adreyzin/mySpringboardRepo/blob/master/7.4%20Data%20Wrangling.Data%20Definitions.NASA%20Meteorite%20Data%20Exercise.ipynb)
 - [SQL & Databases - Case Study](https://github.com/adreyzin/mySpringboardRepo/blob/master/8.3%20SQL%20%26%20Databases.Case%20Study.sql)
-- [Project 5 Title](http://example.com/)
+- [Statistical Inference in Python](https://github.com/adreyzin/mySpringboardRepo/tree/master/11.1%20Python%20Statistics%20in%20EDA.Statistical%20Inference%20in%20Python)
+- 
 
 ---
 
