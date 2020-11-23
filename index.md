@@ -21,6 +21,7 @@
 - [SQL & Databases - Case Study](https://github.com/adreyzin/mySpringboardRepo/blob/master/8.3%20SQL%20%26%20Databases.Case%20Study.sql)
 - [Statistical Inference in Python](https://github.com/adreyzin/mySpringboardRepo/tree/master/11.1%20Python%20Statistics%20in%20EDA.Statistical%20Inference%20in%20Python)
 - [Apps Case Study - Hypothesis Testing in Python](https://github.com/adreyzin/mySpringboardRepo/blob/master/11.3%20Apps%20Case%20Study%20-%20Hypothesis%20Testing%20in%20Python.ipynb)
+- [Regression Case Study - the Red Wine Dataset](https://github.com/adreyzin/mySpringboardRepo/blob/master/11.4%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset.ipynb)
 
 ---
 
