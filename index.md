@@ -20,7 +20,7 @@
 - [Data Wrangling - Data Definitions - NASA Meteorite Data Exercise](https://github.com/adreyzin/mySpringboardRepo/blob/master/7.4%20Data%20Wrangling.Data%20Definitions.NASA%20Meteorite%20Data%20Exercise.ipynb)
 - [SQL & Databases - Case Study](https://github.com/adreyzin/mySpringboardRepo/blob/master/8.3%20SQL%20%26%20Databases.Case%20Study.sql)
 - [Statistical Inference in Python](https://github.com/adreyzin/mySpringboardRepo/tree/master/11.1%20Python%20Statistics%20in%20EDA.Statistical%20Inference%20in%20Python)
-- 
+- [Apps Case Study - Hypothesis Testing in Python](https://github.com/adreyzin/mySpringboardRepo/blob/master/11.3%20Apps%20Case%20Study%20-%20Hypothesis%20Testing%20in%20Python.ipynb)
 
 ---
 
