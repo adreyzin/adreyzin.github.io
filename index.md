@@ -15,6 +15,7 @@
 
 ### Springboard Bootcamp Key Projects
 
+- [Guided Capstone Project](https://github.com/adreyzin/mySpringboardRepo/blob/master/Guided%20Capstone/Guided%20Capstone.ipynb)
 - [London Calling - Case Study](https://github.com/adreyzin/mySpringboardRepo/blob/master/4.3%20Case%20Study%20-%20London%20Calling!.ipynb)
 - [Data Wrangling - DataCollection - API Mini Project](https://github.com/adreyzin/mySpringboardRepo/blob/master/7.2%20Data%20Wrangling.DataCollection.API%20Mini%20Project.ipynb)
 - [Data Wrangling - Data Definitions - NASA Meteorite Data Exercise](https://github.com/adreyzin/mySpringboardRepo/blob/master/7.4%20Data%20Wrangling.Data%20Definitions.NASA%20Meteorite%20Data%20Exercise.ipynb)
