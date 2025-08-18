@@ -6,5 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
     Data Analyst with over 25 years of expertise in financial services, business intelligence, data integration, and process improvement. Skilled in identifying patterns and trends to support strategic decision-making and operational efficiency.
   <br><br>
   <a href="https://www.linkedin.com/in/alexdreyzin/">View My LinkedIn Profile</a> 
-//  <br><br>
+  <br><br>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+theme: jekyll-theme-minimal
